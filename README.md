@@ -7,4 +7,4 @@ A neural network for predicting house prices, built on PyTorch.
 ### test.csv - test data on which the answer will be based. The answer we will put in the file named "submission" and we will submit it on Kaggle.
 ### train.csv - train data
 
-### The MSE is chosen, but before feeding the model's prediction into the loss function, the code uses log1p = ln(prediction + 1)
+ The MSE is chosen, but before feeding the model's prediction into the loss function, the code uses log1p = ln(prediction + 1)
